@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DeQuayG
+- 👀 I’m interested in Cloud Engineering and Development
+- 🌱 I’m currently learning Python
+- 📫 You can reach me via dmglascoe@protonmail.com
