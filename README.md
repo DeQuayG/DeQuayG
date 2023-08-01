@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Python
 - 📫 You can reach me via dmglascoe@protonmail.com
 - I write about my projects on Medium here: https://medium.com/@dmglascoe 
-- My most recent project is the 'API Project' repo, my favorite project was the "Pipe" repo though. 
+- My favorite project is the "Pipe" repo. 
