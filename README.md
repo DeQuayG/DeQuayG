@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Python
 - 📫 You can reach me via dmglascoe@protonmail.com
 - I write about my projects on Medium here: https://medium.com/@dmglascoe 
-- My favorite project is the "Pipe" repo. My most recent project is "Webscraper 2.0"
+- My favorite project is the "Pipe" repo. My most recent projects are the "Webscraper 2.0" and the "AzureProject" repos
