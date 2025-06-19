@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeQuayG
-- 👀 I’m interested in Cloud Engineering and Development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Cybersecurity and Cloud Engineering
+- 🌱 I’m currently learning the small details of Authentication.
 - 📫 You can reach me via dmglascoe@protonmail.com
 - I write about my projects on Medium here: https://medium.com/@dmglascoe 
 - My favorite project is the "Pipe" repo. I'm currently working on a Secure S3 File Viewer App. Before that I was most recently tinkering in the "AzureProject" repo. 
