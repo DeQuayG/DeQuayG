@@ -2,6 +2,6 @@
 - 👀 I’m interested in Cybersecurity and Cloud Engineering
 - 🌱 I’m currently learning the small details of Authentication.
 - 📫 You can reach me via dmglascoe@protonmail.com
-- I write about my projects on Medium here: https://medium.com/@dmglascoe 
+- I write about my projects on Medium [here](https://medium.com/@dmglascoe)
 - I'm currently working on a Secure S3 File Viewer App that dives into OAuth via an Auth0 Federated Login. Before that I was probably most recently tinkering in the "AzureProject" repo. 
 - You'll see a lot of pushes to private repos in my history, I'm working towards making those public!
